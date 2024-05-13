@@ -1,0 +1,18 @@
+*{
+  font-family: 'Fraunces';
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-color: hsl(30, 38%, 92%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  height: 100vh;
+}
+
+.hero{
+  height: 650px;
+  border-radius: 10px 0 0  10px;
+}
